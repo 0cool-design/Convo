@@ -20,7 +20,7 @@
    ```
    - Replace `image.jpg` with the actual path to your image file.
    - `3` in the example is the kernel size.
-
+    ```
 ![Example Image](example.png)
 
 ## Dependencies
