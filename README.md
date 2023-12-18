@@ -6,6 +6,8 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/0cool-design/Convo.git
+   ```
+   ```bash
    cd Convo
    ```
 
@@ -20,7 +22,7 @@
    ```
    - Replace `image.jpg` with the actual path to your image file.
    - `3` in the example is the kernel size.
-    ```
+
 ![Example Image](example.png)
 
 ## Dependencies
