@@ -18,10 +18,10 @@
 
 3. **Run the Script:**
    ```bash
-   python convo.py image.jpg 3
+   python convo.py image.jpg 20
    ```
    - Replace `image.jpg` with the actual path to your image file.
-   - `3` in the example is the kernel size.
+   - `20` in the example is the kernel size.
 
 ![Example Image](example.png)
 
